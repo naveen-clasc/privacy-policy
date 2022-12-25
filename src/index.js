@@ -7,7 +7,7 @@ import Terms from "./Terms";
 import Privacy from "./Privacy";
 const router = createBrowserRouter([
   {
-    path: "/privacy-policy",
+    path: "/",
     element: <Privacy />,
   },
   {
